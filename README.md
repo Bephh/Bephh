@@ -1,10 +1,10 @@
 Nicolas Galvão
 
 
-📊 | Programador Full Stack em aprendizado |
-🚀 | Especializando em JS |
-⚙️ | Lógica de programação |
-📒 | Desenvolvimento de sistemas |
+📊 | Programador Full Stack em aprendizado | <br>
+🚀 | Especializando em JS |<br>
+⚙️ | Lógica de programação |<br>
+📒 | Desenvolvimento de sistemas |<br>
 ## Minhas Estatísticas do GitHub:
 <div align="center">
   <a href="https://github.com/Bephh">
