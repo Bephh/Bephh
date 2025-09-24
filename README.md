@@ -29,6 +29,3 @@ Nicolas Galvão
 </div>
 
 
-
->>>>>>> 3962d7b65f46a481bee6a0eddaea0b78d0be68b3
-*COLA NO README DO GITHUB E E ALTERA AS INFO *
