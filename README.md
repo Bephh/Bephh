@@ -1,7 +1,7 @@
 Nicolas Galvão
 
 
-📊 | Programador back end |
+📊 | Programador Full Stack em aprendizado |
 🚀 | Especializando em JS |
 ⚙️ | Lógica de programação |
 📒 | Desenvolvimento de sistemas |
